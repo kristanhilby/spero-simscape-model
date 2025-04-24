@@ -21,12 +21,10 @@ The SPERO simulation model includes the following core components:
 - **Parametric configuration** to enable scalable mission scenarios (hover, transition, forward flight)
 
 ## Usage
-
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-username/spero-stop-rotor-sim.git
-   cd spero-stop-rotor-sim
-
+   git clone https://github.com/kristanhilby/spero-sismcape-model.git
+   cd spero-sismcape-model
 
 ## Citation
 If you use this model in your research, please cite the following:
