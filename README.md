@@ -9,10 +9,13 @@ The model is intended to support academic research in the areas of hybrid aircra
 If you use this model in your research, please cite the following paper:
 
 > **Hilby, K., Hunter, I., "SPERO: A Stopped Penta-Rotor UAV for Efficient VTOL and Forward Flight," Journal Name, vol. XX, no. X, pp. XXX–XXX, Year.**  
-> [DOI or link if available]
+> Available at: [https://doi.org/10.xxxx/iser.2025.spero](https://www.linkedin.com/in/kristan-hilby/)
 
 > **Hilby, K., Hunter, I., "Analytical and Computational Modeling and Validation of a Stop-Rotor Aircraft," 19th International Symposium on Experimental Robotics (ISER), 2025.**  
-> [DOI or link if available]
+> Available at: [https://doi.org/10.xxxx/iser.2025.spero](https://www.linkedin.com/in/kristan-hilby/)
+
+> **Hilby, K., "Design and Control of a Stop-Rotor Aircraft Enabled by Morphing Wings," 2025.**  
+> Available at: [https://doi.org/10.xxxx/iser.2025.spero](https://www.linkedin.com/in/kristan-hilby/)
 
 A BibTeX entry will be provided upon publication.
 
