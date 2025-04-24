@@ -23,8 +23,8 @@ The SPERO simulation model includes the following core components:
 ## Usage
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/kristanhilby/spero-sismcape-model.git
-   cd spero-sismcape-model
+   git clone https://github.com/kristanhilby/spero-simscape-model.git
+   cd spero-simscape-model
 
 ## Citation
 If you use this model in your research, please cite the following:
