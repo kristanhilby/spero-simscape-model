@@ -1,4 +1,4 @@
-# Overview
+## Overview
 This repository provides the Simulink mode (via Simscape) of **SPERO** (Stopped Penta-Rotor). SPERO is a novel stop-rotor configuration that uses a flippig wing, an active center of pressure, a quadcopter architecture, and wing latch mechanism to achieve stable forward and reverse transition. The provided model can be used to develop novel control systems or adapted to test different mechanical configurations. 
 
 ## Features
