@@ -8,7 +8,10 @@ The model is intended to support academic research in the areas of hybrid aircra
 
 If you use this model in your research, please cite the following paper:
 
-> **[Author(s)], "Title of the Paper," Journal Name, vol. XX, no. X, pp. XXX–XXX, Year.**  
+> **Hilby, K., Hunter, I., "SPERO: A Stopped Penta-Rotor UAV for Efficient VTOL and Forward Flight," Journal Name, vol. XX, no. X, pp. XXX–XXX, Year.**  
+> [DOI or link if available]
+
+> **Hilby, K., Hunter, I., "Analytical and Computational Modeling and Validation of a Stop-Rotor Aircraft," 19th International Symposium on Experimental Robotics (ISER), 2025.**  
 > [DOI or link if available]
 
 A BibTeX entry will be provided upon publication.
