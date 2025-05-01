@@ -13,6 +13,7 @@ To run the simulation, the following MATLAB toolboxes are required:
 - Simscape
 - Simscape Multibody
 - Aerospace Blockset (optional, for advanced functionality)
+- PX4 Autopilot Support from UAV Toolbox (optional, for integration with external flight controller)
 
 ## Model Overview
 
